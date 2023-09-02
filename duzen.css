@@ -1,0 +1,19 @@
+
+.tasarim{
+    background-color: gray;
+    margin: auto;
+    text-align: center;
+    color: orange;
+}
+.saat, .gun {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+#page{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
